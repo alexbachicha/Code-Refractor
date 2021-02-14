@@ -1,10 +1,20 @@
-# coderefractor
-# Honey, I refracted my homework!
+# HTML CSS Git: Code Refractor
 
-But in actuality, I did. I built this project in the hopes of gaining a better understanding of building a webpage and having it accessable to users everywhere. I am new to the coding world and am just starting out my journey in the quest for knowledge. Web accessability is something that all web developers need to keep in mind when creating a project, and is especially important in the consideration for businesses. Not only did I learn about how to approach starting a project, I learned how to efficiently prioritize where I put my time and effort. This was a very fun yet complicated first assignment and I'm proud of what I was able to accomplish in such little time.
+## Description 
 
-My code contains the following, based on criteria that meets accessability standards:
+Web accessibility is an important consideration for businesses. It ensures people with disabilities can access a website using technologies such as video captions, screen readers, braille keyboards, and much more. This project is an example of a scenario in which a marketing agency has hired the user to refactor an existing site to make it more acessible. 
 
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+## Acceptance Criteria
+
+```
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
@@ -15,3 +25,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
